@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Sep 14 18:42:26 2024
+# Process ID: 185259
+# Current directory: /home/deulamco/Documents/FPGAs/nexys_A7_LED_chase/nexys_A7_LED_chase.runs/impl_1
+# Command line: vivado -log led_chase.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_chase.tcl -notrace
+# Log file: /home/deulamco/Documents/FPGAs/nexys_A7_LED_chase/nexys_A7_LED_chase.runs/impl_1/led_chase.vdi
+# Journal file: /home/deulamco/Documents/FPGAs/nexys_A7_LED_chase/nexys_A7_LED_chase.runs/impl_1/vivado.jou
+# Running On        :deulamco-4060M
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 24.04.1 LTS
+# Processor Detail  :AMD Ryzen 7 7840H with Radeon 780M Graphics
+# CPU Frequency     :3445.928 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :29093 MB
+# Swap memory       :8589 MB
+# Total Virtual     :37683 MB
+# Available Virtual :26486 MB
+#-----------------------------------------------------------
+source led_chase.tcl -notrace
